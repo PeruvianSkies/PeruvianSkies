@@ -4,7 +4,7 @@ With Linux Server hands-on experience supporting, automating, and optimizing mis
 
 **TECH STACK** 
 
-<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/docker.svg' alt='docker' height='40'> <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/jenkins.svg' alt='jenkins' height='40'> <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/ansible.svg' alt='ansible' height='40'>
+<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/docker.svg' alt='docker' height='20'> <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/jenkins.svg' alt='jenkins' height='20'> <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/ansible.svg' alt='ansible' height='40'>
 <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/prometheus.svg' alt='prometheus' height='40'>
 <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/grafana.svg' alt='grafana' height='40'>
 <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/amazonaws.svg' alt='amazonaws' height='40'>
