@@ -31,6 +31,8 @@ With Linux Server hands-on experience supporting, automating, and optimizing mis
 - 📫 How to reach me: You can email me at tianputra33@yahoo.com 
 - 😄 Pronouns: English & Indonesian Native Speaker.
 
+
+**You Can Find Me on : **
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='20'>](https://github.com/peruvianskies)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='20'>](https://www.linkedin.com/in/tian-putra-nuhcahya/) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/telegram.svg' alt='telegram' height='20'>](https://t.me/Tianputra) 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=peruvianskies)](https://github.com/anuraghazra/github-readme-stats)
