@@ -3,6 +3,7 @@
 With Linux Server hands-on experience supporting, automating, and optimizing mission critical deployment in AWS, leveraging configuration management, CI / CD, and DevOps processes.
 
 <details>
+  <summary></summary>
   
 **TECH STACK** 
 
@@ -31,4 +32,6 @@ With Linux Server hands-on experience supporting, automating, and optimizing mis
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='20'>](https://github.com/peruvianskies)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='20'>](https://www.linkedin.com/in/tian-putra-nuhcahya/) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/telegram.svg' alt='telegram' height='20'>](https://t.me/Tianputra) 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=peruvianskies)](https://github.com/anuraghazra/github-readme-stats)
+
+*Tell me and I forget, Teach me and I remember, Involve me and I learn. - Benjamin Franklin*
 </details>
