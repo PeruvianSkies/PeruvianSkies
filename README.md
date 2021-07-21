@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Tian
 #### I am DevOps Engineer
-With Linux Server hands-on experience supporting, automating, and optimizing mission critical deployment in AWS, leveraging configuration management, CI / CD, and DevOps processes.
+With Linux Server hands-on experience supporting, automating, and optimizing mission critical deployment in several Cloud Provider, leveraging configuration management, CI / CD, and DevOps processes.
 
 <details>
   <summary></summary>
