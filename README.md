@@ -31,8 +31,7 @@ With Linux Server hands-on experience supporting, automating, and optimizing mis
 <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/grafana.svg' alt='grafana' height='40'>
 <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/newrelic.svg' alt='newrelic' height='40'>
 <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/datadog.svg' alt='datadog' height='40'>
-<br>
-<br>
+*
 - 🌱 I’m currently learning some advanced cloud scalability. 
 - :laughing: Pronouns: English & Indonesian Native Speaker.
 - :mailbox_with_mail: Ask me about anything: tianputra33@yahoo.com
