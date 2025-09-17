@@ -1,4 +1,4 @@
-### Hi there 👋, my name is Tian
+### Hi there 👋, my name is Gemul
 #### I am DevOps Engineer
 With Linux Server hands-on experience supporting, automating, and optimizing mission critical deployments in several Cloud Providers, leveraging configuration management, CI / CD, and DevOps processes.
 
@@ -36,7 +36,7 @@ With Linux Server hands-on experience supporting, automating, and optimizing mis
 
 - 🌱 I’m currently learning some advanced cloud scalability. 
 - :laughing: Pronouns: English & Indonesian Native Speaker.
-- :mailbox_with_mail: Ask me about anything: tianputra33@yahoo.com
+- :mailbox_with_mail: Ask me about anything.
 - :shipit: Fun fact: coffee person.
 
 **You Can Find Me on :**
